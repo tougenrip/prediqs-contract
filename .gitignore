@@ -23,7 +23,3 @@ target
 /output
 .env
 /wallets
-/wasm
-/meta
-/tests
-/scenarios
